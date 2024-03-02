@@ -1,5 +1,3 @@
-# MulheresJogadorasBrasileiras
-
 ## 🎮 Análise de Perfil de Mulheres Brasileiras Jogadoras de Jogos Digitais
 
 Esse projeto foi desenvolvido em duas etapas: (a) coleta de dados por meio de um questionário online; e (b) análise de dados. Ambas as etapas são descritas abaixo.
